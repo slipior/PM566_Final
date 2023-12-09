@@ -5,11 +5,13 @@ project:
 website:
   title: "PM 566 Final Project"
   navbar:
-    left:
-      - href: index.qmd
-        text: Home
+    right:
       - href: PM566_Midterm.qmd
-        text: LA Galaxy 2022-2023 Season
+        text: Home
+      - href: PM566_Final_Project_Report.qmd
+        text: Final Report
+      - href: index.qmd
+        text: Report Download
 
 format:
   html:
