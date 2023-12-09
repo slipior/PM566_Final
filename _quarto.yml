@@ -6,7 +6,7 @@ website:
   title: "PM 566 Final Project"
   navbar:
     left:
-      - href: PM566_Midterm.html
+      - href: PM566_Midterm.qmd
         text: Home
       - href: index.qmd
         text: Report Download
