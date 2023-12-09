@@ -8,7 +8,7 @@ website:
     left:
       - href: PM566_Midterm.qmd
         text: Home
-      - href: index.qmd
+      - href: PM566_Final_Project_Report.pdf
         text: Report Download
 
 format:
