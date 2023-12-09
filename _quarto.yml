@@ -8,8 +8,6 @@ website:
     left:
       - href: PM566_Midterm.qmd
         text: Home
-      - href: PM566_Final_Project_Report.qmd
-        text: Final Report
       - href: index.qmd
         text: Report Download
 
